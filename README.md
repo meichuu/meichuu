@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=meichuu&color=038496&style=for-the-badge&label=KISS+COUNT&base=69000&abbreviated=true)
 
+<img width="1110" height="400" alt="image" src="https://github.com/user-attachments/assets/1ee594be-917c-4495-adc4-5828490f8762" />
+
 </p>
 <!-- ANIMATION TEXT -->
 <p align="center">
@@ -18,3 +20,6 @@
 
 </p>
 <img width="1110" height="120" alt="image" src="https://github.com/user-attachments/assets/afa53585-74a3-4db8-9472-33742ace79fd" />
+
+</p>
+<img width="1110" height="200" alt="image" src="https://github.com/user-attachments/assets/4af42d31-84f8-41ea-bab6-81b551ec13b6" />
