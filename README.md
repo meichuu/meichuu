@@ -55,6 +55,7 @@ non clickables
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/e142ff95-a314-473f-8920-31cc437d948a" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f4940901-5373-4dcf-bbb4-b4f051967ed4" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/206a4c64-338c-43ec-9a50-b93cc41e606d" />
+</p>
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/df080951-3733-41c0-a7d8-7364d8b2be60" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/5a7cef38-aa22-4229-bbe4-3cc2ecf7954f" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/ab9ab3a8-f568-4e8b-bff3-721f723e10d5" />
