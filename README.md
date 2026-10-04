@@ -34,7 +34,7 @@ width="48%">
 <a href="https://pin.it/FhXzmyu7u">
   <img width="99" src="https://github.com/user-attachments/assets/68bff915-8e1d-4b8e-a0ee-5a65e1e158ee">
 </a>
-<a href="https://marvelcinematicuniverse.fandom.com/wiki/Loki">
+<a href="https://rentry.co/gpnxdcu6">
   <img width="99" src="https://github.com/user-attachments/assets/2711a7f9-e571-4e8d-be84-b525d732993e">
 </a>
 
