@@ -1,16 +1,22 @@
-## Hi there 👋
+</p>
+<!-- ANIMATION TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&size=48&pause=2000&color=ede1d3&center=true&vCenter=true&width=1400&height=100&lines=%22we're+doing+this+shit+again?%22">
+hello this wip
 
-<!--
-**meichuu/meichuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+open my alts to see
+</p>
 
-Here are some ideas to get you started:
+[my pt & loki page.](https://github.com/ioki-laufeyson)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[lokius yaoi (the mobius one)](https://github.com/lokicest) <- btw this one is not iokicest (the weird thorki guy)
+</p>
+
+[how much i love bruce banner cs this is also wip](https://github.com/twhiddleston)
+</p>
+
+[this weird spiderman peter thing](https://github.com/junerpea)
+</p>
+
+[Deadpoolmmmmmmmmmmmmmdeadpool..mmmmmmmmm](https://github.com/deadpoolcest)
