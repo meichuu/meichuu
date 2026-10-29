@@ -10,7 +10,7 @@ open my alts to see
 [my pt & loki page.](https://github.com/ioki-laufeyson)
 </p>
 
-[lokius yaoi (the mobius one)](https://github.com/lokicest) <- btw this one is not iokicest (the weird thorki guy)
+[lokius yaoi (the mobius one)](https://github.com/lokicest) 
 </p>
 
 [how much i love bruce banner cs this is also wip](https://github.com/twhiddleston)
