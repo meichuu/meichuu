@@ -7,7 +7,7 @@ hello this wip
 open my alts to see
 </p>
 
-[my pt & loki page.](https://github.com/ioki-laufeyson)
+[my pt & loki page.](https://github.com/laufeysson)
 </p>
 
 [lokius yaoi (the mobius one)](https://github.com/lokicest) 
